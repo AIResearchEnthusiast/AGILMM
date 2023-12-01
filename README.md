@@ -4,7 +4,7 @@ In order to deepen our comprehension of multimodal information, we have pioneere
 
 ## Model Architecture
 
-[![model architecture](/assets/img/model.png)]
+![model architecture](/assets/img/model.png)
 
 Concerning the model architecture, we incorporated a combination of VIT (Vision Transformer), an adapter module, and LLM (Language and Vision Model) and We continued training the LLM model with a more extensive corpus. For the adapter component, we employed the Perceiver Resampler to effectively extract and compress visual features. The specific parameters for VIT and LLM are listed in the following table.
 
