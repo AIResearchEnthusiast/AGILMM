@@ -16,6 +16,6 @@ Our training strategy consists of a three-stage process, which encompasses the f
 
 1. Image-Text Alignment Pretraining: We conducted alignment pretraining on an extensive dataset of image-text pairs, thereby establishing a correlation between the image encoder and the language LLM.
 2. Multitask Pretraining: By rigorously training the model on a diverse array of visual tasks, we facilitated the learning of a broad spectrum of visual features and semantic knowledge.
-3. Multimodal Instruction Fine-tuning: Utilizing our curated dataset, which comprises tasks related to Image-based text generation and  comprehension task , we fine-tuned the model to enhance its understanding of multimodal instructions, thereby further augmenting its performance.
+3. Multimodal Instruction Fine-tuning: Utilizing our curated dataset, which comprises tasks related to Image-based text generation and  comprehension task , we fine-tuned the model to enhance its understanding of multimodal instructions, thereby further augmenting its performance. In this phase, we have incorporated external expert knowledge to enhance our capabilities, such as OCR (Optical Character Recognition) and facial recognition knowledge.
 
 By adhering to this three-stage training methodology, our AGILMM model has demonstrated exceptional performance on the MME leaderboard.
