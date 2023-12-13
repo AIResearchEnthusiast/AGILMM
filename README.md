@@ -19,3 +19,11 @@ Our training strategy consists of a three-stage process, which encompasses the f
 3. Multimodal Instruction Fine-tuning: Utilizing our curated dataset, which comprises tasks related to Image-based text generation and  comprehension task , we fine-tuned the model to enhance its understanding of multimodal instructions, thereby further augmenting its performance. In this phase, we have incorporated external expert knowledge to enhance our capabilities, such as OCR (Optical Character Recognition) and facial recognition knowledge.
 
 By adhering to this three-stage training methodology, our AGILMM model has demonstrated exceptional performance on the MME leaderboard.
+
+## Evaluation
+
+### MME
+
+AGILMM achieved **1742.68** perception score, which was top1 on MME full benchmark on 2023-12-12
+
+(/assets/img/mme.png)
