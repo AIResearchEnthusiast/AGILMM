@@ -26,4 +26,4 @@ By adhering to this three-stage training methodology, our AGILMM model has demon
 
 AGILMM achieved **1742.68** perception score, which was top1 on MME full benchmark on 2023-12-12
 
-(/assets/img/mme.png)
+![mme](/assets/img/mme.png)
